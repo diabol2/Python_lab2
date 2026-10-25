@@ -1,13 +1,21 @@
-# streamstats: потоковый анализатор событий
+# Потоковый анализатор файлов
 
 Читает события из CSV и JSONL **построчно**, не загружая файл в память, и строит
 JSON-отчёт со статистикой. Несколько входных файлов объединяются в один отчёт.
 
 ## Установка и запуск
+Клонирование репозитория:
+```git clone https://github.com/diabol2/Python_lab2```
 
+Подготовка среды:
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -e ".[dev]"
+```
 
+Доступные команды:
+```
 python -m streamstats --help
 python -m streamstats analyze a.csv b.csv --format csv --output report.json
 python -m streamstats analyze logs.jsonl --format jsonl --skip-invalid
