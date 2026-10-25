@@ -1,0 +1,23 @@
+{
+    "total_events": 7,
+    "levels": {
+        "DEBUG": 0,
+        "INFO": 6,
+        "WARNING": 0,
+        "ERROR": 1,
+        "CRITICAL": 0
+    },
+    "sources": {
+        "web": 6,
+        "db": 1
+    },
+    "first_timestamp": "2026-10-14T10:00:00Z",
+    "last_timestamp": "2026-10-14T10:07:00Z",
+    "skipped_lines": 1,
+    "top_error_sources": [
+        {
+            "source": "db",
+            "count": 1
+        }
+    ]
+}

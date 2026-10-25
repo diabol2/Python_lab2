@@ -1,0 +1,28 @@
+{
+    "total_events": 6,
+    "levels": {
+        "DEBUG": 1,
+        "INFO": 1,
+        "WARNING": 1,
+        "ERROR": 2,
+        "CRITICAL": 1
+    },
+    "sources": {
+        "web": 2,
+        "db": 2,
+        "api": 2
+    },
+    "first_timestamp": "2026-10-14T09:30:00Z",
+    "last_timestamp": "2026-10-14T10:04:00Z",
+    "skipped_lines": 0,
+    "top_error_sources": [
+        {
+            "source": "db",
+            "count": 2
+        },
+        {
+            "source": "api",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-14T10:00:00Z", "level": "INFO", "source": "web", "message": "ok"}
+это не json
+["список", "вместо", "объекта"]
+{"timestamp": "2026-10-14T10:02:00Z", "level": "TRACE", "source": "web", "message": "unknown level"}
+{"timestamp": "вчера", "level": "INFO", "source": "web", "message": "bad date"}
+{"timestamp": "2026-10-14T10:04:00Z", "level": "INFO", "source": "", "message": "empty source"}
+{"timestamp": "2026-10-14T10:05:00Z", "level": "INFO", "source": "web"}
+{"timestamp": "2026-10-14T10:10:00Z", "level": "ERROR", "source": "db", "message": "ok"}

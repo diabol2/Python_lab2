@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-10-14T10:00:00Z,INFO,web,ok
+вчера,INFO,web,bad date
+2026-10-14T10:02:00Z,ERROR,db,ok

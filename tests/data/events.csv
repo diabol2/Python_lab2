@@ -1,0 +1,7 @@
+timestamp,level,source,message
+2026-10-14T10:00:00Z,INFO,web,старт сервиса
+2026-10-14T10:01:00Z,ERROR,db,connection lost
+2026-10-14T10:02:00Z,CRITICAL,db,диск переполнен
+2026-10-14T10:03:00Z,WARNING,web,slow response
+2026-10-14T10:04:00Z,ERROR,api,timeout
+2026-10-14T09:30:00Z,DEBUG,api,trace

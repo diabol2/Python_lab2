@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-14T10:00:00Z", "level": "INFO", "source": "web", "message": "старт сервиса"}
+{"timestamp": "2026-10-14T10:01:00Z", "level": "ERROR", "source": "db", "message": "connection lost"}
+{"timestamp": "2026-10-14T10:02:00Z", "level": "CRITICAL", "source": "db", "message": "диск переполнен"}
+{"timestamp": "2026-10-14T10:03:00Z", "level": "WARNING", "source": "web", "message": "slow response"}
+{"timestamp": "2026-10-14T10:04:00Z", "level": "ERROR", "source": "api", "message": "timeout"}
+{"timestamp": "2026-10-14T09:30:00Z", "level": "DEBUG", "source": "api", "message": "trace"}

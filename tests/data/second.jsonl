@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-15T08:00:00Z", "level": "ERROR", "source": "web", "message": "late error"}
+
+{"timestamp": "2026-10-13T23:00:00Z", "level": "CRITICAL", "source": "api", "message": "early crash"}
+   

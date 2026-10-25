@@ -1,0 +1,36 @@
+{
+    "total_events": 8,
+    "levels": {
+        "DEBUG": 0,
+        "INFO": 0,
+        "WARNING": 0,
+        "ERROR": 8,
+        "CRITICAL": 0
+    },
+    "sources": {
+        "z": 2,
+        "f": 1,
+        "e": 1,
+        "d": 1,
+        "c": 1,
+        "b": 1,
+        "a": 1
+    },
+    "first_timestamp": "2026-10-14T10:00:00Z",
+    "last_timestamp": "2026-10-14T10:07:00Z",
+    "skipped_lines": 0,
+    "top_error_sources": [
+        {
+            "source": "z",
+            "count": 2
+        },
+        {
+            "source": "a",
+            "count": 1
+        },
+        {
+            "source": "b",
+            "count": 1
+        }
+    ]
+}

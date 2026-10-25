@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-14T10:00:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:01:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:02:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:03:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:04:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:05:00Z", "level": "INFO", "source": "web", "message": "ok"}
+{"timestamp": "2026-10-14T10:06:00Z", "level": "INFO", 
+{"timestamp": "2026-10-14T10:07:00Z", "level": "ERROR", "source": "db", "message": "after bad line"}

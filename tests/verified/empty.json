@@ -1,0 +1,15 @@
+{
+    "total_events": 0,
+    "levels": {
+        "DEBUG": 0,
+        "INFO": 0,
+        "WARNING": 0,
+        "ERROR": 0,
+        "CRITICAL": 0
+    },
+    "sources": {},
+    "first_timestamp": null,
+    "last_timestamp": null,
+    "skipped_lines": 0,
+    "top_error_sources": []
+}
